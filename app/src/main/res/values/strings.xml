@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travle BD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dhaka_place">Dhaka</string>
+    <string name="sylet_place">Sylet</string>
+    <string name="chittagong_place">Chittagong</string>
+    <string name="cox_place">CoxsBazar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
